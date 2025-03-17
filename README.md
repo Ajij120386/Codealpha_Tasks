@@ -1,1 +1,1 @@
-# codealpha_tasks-
+I have created this repository to store and showcase the source code of all tasks assigned to me during my internship at CodeAlpha. This repository reflects my work, learning, and contributions throughout the internship.
